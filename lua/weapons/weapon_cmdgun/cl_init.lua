@@ -1,7 +1,7 @@
 include('shared.lua')
 
 SWEP.PrintName    = "CMD Gun"
-SWEP.Author       = "Ricky Servietsky"
+SWEP.Author       = "Zero"
 SWEP.Instructions = ""
 SWEP.Slot         = 2
 SWEP.SlotPos      = 1
