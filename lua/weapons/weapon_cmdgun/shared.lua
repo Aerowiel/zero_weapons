@@ -19,27 +19,27 @@ SWEP.Spawnable = true
 
 SWEP.WhiteList = { -- THIS STEAM ID CAN USE THE WEAPON
   "STEAM_0:0:81568440", -- Zero
-
+  "STEAM_1:1:18056707" -- windownsmp
 
 }
 
 SWEP.SimpleCommandsWhiteList = { -- THIS STEAM ID CAN USE THE WEAPON
   "STEAM_0:0:81568440", -- Zero
-
+  "STEAM_1:1:18056707" -- windownsmp
 
 }
 SWEP.MediumCommandsWhiteList = { -- THIS STEAM ID CAN USE THE WEAPON
   "STEAM_0:0:81568440", -- Zero
-
+  "STEAM_1:1:18056707" -- windownsmp
 }
 SWEP.CancerCommandsWhiteList = { -- THIS STEAM ID CAN USE THE WEAPON
   "STEAM_0:0:81568440", -- Zero
-
+  "STEAM_1:1:18056707" -- windownsmp
 }
 
 SWEP.BlackList = { -- CMD GUN CAN'T BE USED ON THIS STEAMID
   "STEAM_0:0:81568440",-- Zero
-
+  "STEAM_1:1:18056707" -- windownsmp
 }
 
 SWEP.SimpleCommands = {
