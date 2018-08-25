@@ -18,50 +18,28 @@ SWEP.Spawnable = true
 
 
 SWEP.WhiteList = { -- THIS STEAM ID CAN USE THE WEAPON
-  "STEAM_0:0:81568440",
-  "STEAM_0:1:23720656",
-  "STEAM_0:1:107653900",
-  "STEAM_0:0:4024764",
-  "STEAM_0:1:195488891",
-  --"STEAM_0:1:29158193"
-  --"STEAM_0:0:103057567" -- maxime
-  "STEAM_0:0:177786115", -- rice frisky (girl)
-  "STEAM_0:0:422406760" --wuba
+  "STEAM_0:0:81568440", -- Zero
+
 
 }
 
 SWEP.SimpleCommandsWhiteList = { -- THIS STEAM ID CAN USE THE WEAPON
   "STEAM_0:0:81568440", -- Zero
-  "STEAM_0:1:107653900",
-  "STEAM_0:1:23720656", -- Borna
-  "STEAM_0:0:4024764", -- redark
-  "STEAM_0:1:195488891", -- coolxpress
-  "STEAM_0:0:177786115", -- rice frisky (girl)
-  "STEAM_0:0:422406760" --wuba
+
 
 }
 SWEP.MediumCommandsWhiteList = { -- THIS STEAM ID CAN USE THE WEAPON
   "STEAM_0:0:81568440", -- Zero
-  "STEAM_0:1:107653900",
-  "STEAM_0:1:23720656", -- Borna
-  "STEAM_0:0:4024764", -- redark
-  "STEAM_0:1:195488891", -- coolxpress
-  "STEAM_0:0:177786115", -- rice frisky (girl)
-  --"STEAM_0:1:29158193",
-  "STEAM_0:0:422406760" --wuba
+
 }
 SWEP.CancerCommandsWhiteList = { -- THIS STEAM ID CAN USE THE WEAPON
   "STEAM_0:0:81568440", -- Zero
-  --"STEAM_0:1:107653900",
-  "STEAM_0:1:195488891",
-  "STEAM_0:0:422406760" --wuba
+
 }
 
 SWEP.BlackList = { -- CMD GUN CAN'T BE USED ON THIS STEAMID
   "STEAM_0:0:81568440",-- Zero
-  "STEAM_0:1:107653900",-- Lunsh
-  "STEAM_0:0:422406760", --wuba
-  "STEAM_0:1:195488891", -- coolxpress
+
 }
 
 SWEP.SimpleCommands = {
